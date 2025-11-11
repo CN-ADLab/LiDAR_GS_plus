@@ -6,8 +6,11 @@
 </p> -->
 
 > Qifeng Chen, Jiarun Liu, Rengan Xie, Tao Tang, Sicong Du, Yiru Zhao, Yuchi Huo, Sheng Yang†
+<p>
+   <a href="https://github.com/CN-ADLab/LiDAR_GS_plus">
+      <img src='https://img.shields.io/badge/arxiv-coming soon-red?style=flat' alt='arxiv 2410.05111'></a>
+</p>
 
-This is the official implementation of **LiDAR-GS++: Improving LiDAR Gaussian Reconstruction via Diffusion Priors** (AAAI-26)  [[arxiv](https://github.com/CN-ADLab/LiDAR_GS_plus)](coming soon).
 
 # Abstract
 Recent GS-based rendering has made significant progress for LiDAR, surpassing Neural Radiance Fields (NeRF) in both quality and speed. However, these methods exhibit artifacts in extrapolated novel view synthesis due to the incomplete reconstruction from single traversal scans. To address this limitation, we present LiDAR-GS++, a LiDAR Gaussian Splatting reconstruction method enhanced by *diffusion priors* for real-time and high-fidelity re-simulation on public urban roads. 
